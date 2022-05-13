@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
   <p>When I'm not coding, I'm probably building/modding keyboards, working out, baking, or looking for new skills that I can learn!</p>
 </div>
 
-
-
+<br/>
 
 ### Languages and Technologies
 <div>
