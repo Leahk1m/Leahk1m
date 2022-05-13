@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Leahk1m&color=ffd1dc)
+![](https://komarev.com/ghpvc/?username=Leahk1m&color=F4B9F7)
 
 
 ### Languages and Technologies
