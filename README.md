@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=Leahk1m&color=ffd1dc)
+
+
 ### Languages and Technologies
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
