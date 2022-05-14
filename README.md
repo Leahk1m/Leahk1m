@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="GIF" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif"/>
   <h2>Software Engineer</h2>
   <p>I am a Software Engineer with experience in building web applications using React, Redux, Javascript, Python, AWS, Node.js, Express.js, Flask, and SQL.</p>
+  <p>When I'm not coding, I'm building/modding keyboards, cooking up new recipes, or looking for new skills to learn! </p> 
  
 </div>
 
