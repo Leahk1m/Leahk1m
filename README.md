@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leahk1m&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leahk1m&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)(https://github.com/Leahk1m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leahk1m&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/Leahk1m/github-readme-stats)
 
 
 
