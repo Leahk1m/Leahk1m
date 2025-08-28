@@ -58,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Socials
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/leahk1m/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://docs.google.com/document/d/1Zudii0XRhT6B5RqELLuajnlsU7Lc3mJkLlWyDSRZgXw/edit?usp=sharing)
+
