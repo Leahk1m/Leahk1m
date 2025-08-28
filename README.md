@@ -8,10 +8,13 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4B9F7&lines=Welcome+to+my+Github!;My+name+is+Leah)](https://git.io/typing-svg)
 
 <div>
-  <img align="right" alt="GIF" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif"/>
   <h2>Software Engineer</h2>
-  <p>I am a Software Engineer with experience in building web applications using React, Redux, Javascript, Python, AWS, Node.js, Express.js, Flask, and SQL.</p>
-  <p>When I'm not coding, I'm building/modding keyboards, cooking up new recipes, or looking for new skills to learn! </p> 
+
+ <div>
+  	<img align="right" alt="GIF" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif"/>
+  	<p>I am a Frontend Engineer with experience in building scalable web applications using React, Redux, 		Javascript, Typescript, with user and dev experience, always in mind.</p>
+ 	<p>When I'm not coding, I'm building/modding keyboards, cooking up new recipes, or looking for new 			frameworks to expand my skillset!</p> 
+ </div>
  
 </div>
 
